@@ -1,0 +1,6 @@
+remote_theme: fongandrew/hydeout
+title: Adéle
+description: Santé - Accompagnement - Protection
+permalink: /:name
+plugins:
+  - jekyll-redirect-from

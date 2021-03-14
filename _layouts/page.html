@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% if page.title != 'Home' %}
+<header>
+  <h1 class="page-title">{{ page.title }}</h1>
+</header>
+{% endif %}
+<div class="content">
+  {{ content }}
+</div>
+<footer class="content">
+  <p id="edit-page" class="editme">
+    <strong>Ce projet est parrainé par l'association Adéle.</strong>
+  </p>
+</footer>

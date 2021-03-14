@@ -1,0 +1,24 @@
+---
+# Jekyll needs front matter for SCSS files
+---
+
+// Variables for Hydeout
+
+$sidebar-bg-color: #000080 !default;
+$sidebar-fg-color: white !default;
+$sidebar-sticky: false;
+$layout-reverse: false !default;
+$link-color: #268bd2 !default;
+$section-spacing: 2rem;
+$sidebar-width: 20rem;
+$large-font-size: 1.05rem !default;
+
+@import "hydeout";
+
+#sidebar {
+    .site-title {
+        font-family: $root-font-family;
+        font-weight: bold;
+    }
+}
+
