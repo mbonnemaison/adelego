@@ -14,9 +14,11 @@ Because each situation is unique and changes over time, our approach is to creat
 Each tool will contain one or several functionalities, record and analyze data locally and send an alert (by phone or email) to a trusted third party when an unusual activity happens, such as a fall.
 
 ### First prototype
-We are currently building a first prototype consisting of a detector connected to a Raspberry Pi 4 on which we installed Jeedom. 
-<img src="assets/images/IMG_3160.jpg"	title="Raspberry Pi 4 and the antenna" width="300" height="400" />
-<img src="assets/images/IMG_3163.jpg"	title="Multisensor 6 detector" width="300" height="400" />
+We are currently building a first prototype consisting of a detector connected to a Raspberry Pi 4 on which we installed Jeedom.
+
+<img src="assets/images/IMG_3160.jpg"	title="Raspberry Pi 4 and the antenna" width="300" height="400" /> *Raspberry Pi 4 and the antenna*
+
+<img src="assets/images/IMG_3163.jpg"	title="Multisensor 6 detector" width="300" height="400" /> *Multisensor 6 detector*
 
 The detector we  are using is Multisensor 6 from [Aeotec](https://aeotec.com/z-wave-sensor/). This detector can sense humidity, temperature, presence, UV, brightness and vibration. It uses the Z-wave protocol to communicate to its antenna ([Z-stick Gen 5+](https://aeotec.com/z-wave-usb-stick/)) that is hooked up to the Raspberry Pi.
 
