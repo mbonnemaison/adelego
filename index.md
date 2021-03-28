@@ -1,7 +1,7 @@
 ---
 title: Bienvenue!
 ---
-**Adéle** est une association qui souhaite apporter des réponses aux besoins grandissants des personnes dépendantes, des aidants et des personnes vivant seules à domicile.
+**Adelego** est un projet qui souhaite apporter des réponses aux besoins grandissants des personnes dépendantes, des aidants et des personnes vivant seules à domicile.
 >***Qu’est-ce que la dépendance?***
 
 Une personne devient dépendante à cause de son âge, d’un handicap et/ou d’une maladie.
@@ -16,7 +16,7 @@ Nous recherchons des solutions pour protéger et accompagner ces personnes grâc
 Nous sommes convaincus que nous pouvons apporter de véritables solutions pour tous les besoins de chacun par une intelligence collective et un échange de bonnes pratiques.
 
 ### Ce que vous trouverez sur ce site:
-Sur ce site, vous pourrez trouver des informations générales sur le projet Adéle et son histoire en cliquant à gauche. Nous postons régulièrement des articles sur les thèmes suivants:
+Sur ce site, vous pourrez trouver des informations générales sur le projet Adelego et son histoire en cliquant à gauche. Nous postons régulièrement des articles sur les thèmes suivants:
 - Les dépendances 
 - Les aidants 
 - Les solutions actuelles 
@@ -30,4 +30,4 @@ Toutes nos intéractions sont couvertes par notre [code de conduite](CodeConduit
 
 Nous sommes très heureux de votre visite sur notre site et espérons que vous le trouverez utile.
 
-L’équipe Adéle
+L’équipe Adelego

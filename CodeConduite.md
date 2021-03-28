@@ -4,7 +4,7 @@ sidebar_link: true
 sidebar_sort_order: 998
 ---
 
-Notre société vieillit et les solutions actuelles pour se préparer à l'augmentation du nombre de personnes agées sont limitées. Le but d'Adéle est de présenter ce problème de société grandissant et de créer une communauté de personnes souhaitant résoudre ce problème.
+Notre société vieillit et les solutions actuelles pour se préparer à l'augmentation du nombre de personnes agées sont limitées. Le but d'Adelego est de présenter ce problème de société grandissant et de créer une communauté de personnes souhaitant résoudre ce problème.
 
 Sur ce site, nous nous engageons à respecter les règles de conduite suivantes:
 
