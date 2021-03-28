@@ -38,4 +38,4 @@ If you want to develop this project with us or have ideas/suggestions, feel free
 
 We also created a GitHub page (in french) with more information on the project and our vision [here](https://mbonnemaison.github.io/adelego/).
 
-*We thank the Boston Python group for allowing us to use their GitHub page as a model for our GitHub page: [about.bostonpython.com](https://about.bostonpython.com)*
+*We thank the [Boston Python group](https://about.bostonpython.com) for allowing us to use their GitHub page as a model for our GitHub page.*
