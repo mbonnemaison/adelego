@@ -19,4 +19,4 @@ Cette application est la mise en place dans l’habitat de capteurs relié à un
 
 Ce système s’appelle Adelego.
 
-<img src="assets/images/Logo3white.png"	title="Logo d'Adéle" width="150" height="150" />
+<img src="assets/images/Adelego_Logo_White.png"	title="Logo d'Adéle" width="150" height="150" />
