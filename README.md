@@ -33,9 +33,11 @@ The detector has been placed at the entrance of our kitchen since December 1st 2
 
 The appropriate data analysis is essential to detect any unusual activity. Our current strategy is to use the Python library, *pandas*, to analyze the data. For example, we want to determine when someone enters the kitchen for the first time of the day, get an average and a standard deviation. This will create a history of usual activity. If a change happens (for example, it is noon, and nobody has been in the kitchen yet), then an alert is sent to a person of our choice. 
 
+Our code is on the [master branch](https://github.com/mbonnemaison/adelego/tree/master) of this repository. Feel free to take a look and tell us what you think!
+
 ### Let's work together
 If you want to develop this project with us or have ideas/suggestions, feel free to contact me on GitHub or <adele.jmb@gmail.com>.
 
-We also created a GitHub page (in french) with more information on the project and our vision [here](https://mbonnemaison.github.io/adelego/).
+We also created a GitHub page (in french for now) with more information on the project and our vision [here](https://mbonnemaison.github.io/adelego/).
 
 *We thank the [Boston Python group](https://about.bostonpython.com) for allowing us to use their GitHub page as a model for our GitHub page.*
