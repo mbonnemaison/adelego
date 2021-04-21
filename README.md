@@ -13,8 +13,8 @@ We are turning to the use of connected objects and the implementation of digital
 2. provides relief for their caregivers and loved ones;
 3. protects its users by not sharing the data to third entities & analyzing the data locally.
 
-Because each situation is unique and changes over time, our approach is to create a **platform** that will provide a variety of tools that can be selected based on these people's needs. It is the combination of these tools that will create the personalized local home surveillance system.
-Each tool will contain one or several functionalities, record and analyze data locally and send an alert (by phone or email) to a trusted third party when an unusual activity happens, such as a fall. The third party will be someone the user knows and trusts such as a neighbor, a family member or a nurse.
+Because each situation is unique and changes over time, our approach is to create a **platform** providing a variety of tools that users can select based on their needs. It is the combination of these tools that will create the personalized local home surveillance system.
+Each tool will contain one or several functionalities that can record and analyze data locally and send an alert (by phone or email) to a trusted third party when an unusual activity happens, such as a fall. The third party will be someone the user knows and trusts such as a neighbor, a family member or a nurse.
 
 ## First prototype
 We are currently building a first prototype consisting of a detector connected to a Raspberry Pi 4 on which we installed Jeedom.
