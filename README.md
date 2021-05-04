@@ -1,18 +1,24 @@
 # Adelego project
 
-**Adelego** is a project created to help dependent people live longer and more safely at home & improve the help caregivers can provide.
+**Adelego** is a project created to help dependent people live longer and more safely at home & improve the assistance caregivers can provide.
 
 ## The problem
-A person becomes **dependent** because of their age, a disability and/or an illness and a **caregiver** is a person who helps dependent people in their daily life. When an accident happens to dependent people or people living by themselves, their health can be severely impacted. Countries across Europe and the Americas are aging leading to an increase in the number of dependent people and consequently, caregivers.
+People become **dependent** because of their age, a disability and/or an illness. Dependence can last between a few days (e.g. after a surgery) and a lifetime (e.g. a person born with autism). 
 
-Today, it is estimated that about 1 in 5 people is a caregiver in Europe and North America and this number is expected to increase for the next few decades due to the aging of baby boomers. Unfortunately, this situation is not sustainable economically due to the increasing proportion of dependent people and the global impoverishment of the population. To solve this societal issue, we want to develop solutions that are *simple, robust, easy to use and affordable*.
+A **caregiver** is a person who helps dependent people in their daily life. A caregiver can be a nurse, a family member or even a neighbor.
+
+If an accident happens to dependent people, it can take a long time before a caregiver is alerted and helps them out. Unfortunately, the longer it takes to help dependent people after an accident, the more their general health deteriorates. 
+
+Countries across Europe and the Americas are aging leading to an increase in the number of dependent people and consequently, caregivers. Today, it is estimated that about 1 in 5 people is a caregiver in Europe and North America and this number is expected to increase for the next few decades due to the aging of baby boomers. Unfortunately, this situation is not sustainable economically due to the increasing proportion of dependent people and the global impoverishment of the population. To solve this societal issue, we want to develop solutions that are *simple, robust, easy to use* and *affordable*.
 
 ## Our project
-We are turning to the use of connected objects and the implementation of digital applications to develop a **personalized local home surveillance system** that allows people who are living by themselves and/or dependent to live safer and longer in their own home.
+We are turning to the use of connected objects and the implementation of digital applications to develop a **personalized local home surveillance system** that allows:
+- people who are living by themselves and/or dependent to live safer and longer in their own home.
+- caregivers to be alerted immediately in case of an accident.
 
 Because each situation is unique and changes over time, our approach is to create a **platform** that will provide a variety of tools users can select based on their needs. It is the combination of these tools that will create the personalized local home surveillance system. Each tool will consist of a program in link with connected objects to:
-1. record and analyze data locally;
-2. send an alert (by phone or email) to a trusted third party when an unusual activity is detected, such as a fall. The third party will be someone the user knows and trusts such as a neighbor, a family member or a nurse.
+- record and analyze data locally;
+- send an alert (by phone or email) to a caregiver when an unusual activity is detected, such as a fall.
 
 ## First prototype
 We are currently building a first prototype consisting of a detector connected to a Raspberry Pi 4 on which we installed Jeedom.
