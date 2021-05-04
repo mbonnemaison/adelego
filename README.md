@@ -10,8 +10,7 @@ Today, it is estimated that about 1 in 5 people is a caregiver in Europe and Nor
 ## Our project
 We are turning to the use of connected objects and the implementation of digital applications to develop a **personalized local home surveillance system** that allows people who are living by themselves and/or dependent to live safer and longer in their own home.
 
-Because each situation is unique and changes over time, our approach is to create a **platform** that will provide a variety of tools that can be selected based on these people's needs. It is the combination of these tools that will create the personalized local home surveillance system.
-Each tool will consist of a program in link with connected objects to:
+Because each situation is unique and changes over time, our approach is to create a **platform** that will provide a variety of tools users can select based on their needs. It is the combination of these tools that will create the personalized local home surveillance system. Each tool will consist of a program in link with connected objects to:
 1. record and analyze data locally;
 2. send an alert (by phone or email) to a trusted third party when an unusual activity is detected, such as a fall. The third party will be someone the user knows and trusts such as a neighbor, a family member or a nurse.
 
