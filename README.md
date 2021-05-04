@@ -1,6 +1,6 @@
 # Adelego project
 
-**Adelego** is a project which aims to help caregivers & people with dependence live longer and more safely at home.
+**Adelego** is a project created to help caregivers & people with dependence live longer and more safely at home.
 
 ## The problem
 A person becomes **dependent** because of their age, a disability and/or an illness and a **caregiver** is a person who helps dependent people in their daily life. When an accident happens to dependent people or people living by themselves, their health can be severely impacted. Countries across Europe and the Americas are aging leading to an increase in the number of dependent people and consequently, caregivers.
