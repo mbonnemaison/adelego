@@ -28,7 +28,7 @@ The detector we are working with is [Multisensor 6](https://aeotec.com/z-wave-se
 The detector has been placed at the entrance of our kitchen since December 1st 2020 and has been recording data continuously.
 
 ## Data analysis
-The appropriate data analysis is essential to detect any unusual activity. Our current strategy is to use the Python library, *pandas*, to analyze the data that has been recovered under CSV files. 
+The appropriate data analysis is essential to detect any unusual activity. Our current strategy is to use the Python library, *pandas*, to analyze the data that has been recovered in CSV files. 
 ### Step 1: Analysis of 3 months of data to generate a history
 We first did an analysis of the data over a period of 3 months from January 1st 2021 until March 31st 2021 in order to get a history and figure out a pattern.
 Information we obtained from this analysis:
