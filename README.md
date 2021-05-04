@@ -51,7 +51,7 @@ The picture below is a screenshot of the dataframe generated on April 21st 2021.
 - **Time spent**: time we spent in the kitchen for the day
 - **Time spent range**: range indicated if the ***Time spent*** is in the normal range or if it is low or high compared to the history*
 
-\*Note: the normal range is any value that falls in between the 2 standard deviations calculated with the 3 months of data.
+\*Note: the normal range is any value that falls within 1 standard deviation from the mean calculated with the 3 months of data.
  
 <img src="daily_info.png"	title="Dataframe containing latest daily information" width="716" height="404" /> 
 
