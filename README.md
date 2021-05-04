@@ -5,11 +5,11 @@
 ## The problem
 People become **dependent** because of their age, a disability and/or an illness. Dependence can last between a few days (e.g. after a surgery) and a lifetime (e.g. a person born with autism). 
 
-A **caregiver** is a person who helps dependent people in their daily life. A caregiver can be a nurse, a family member or even a neighbor.
+A **caregiver** is a person who helps dependent people in their daily life. A caregiver can be a nurse, a family member or even a neighbor. In most cases, a caregiver is the spouse or a parent of a dependent person.
 
 If an accident happens to dependent people, it can take a long time before a caregiver is alerted and helps them out. Unfortunately, the longer it takes to help dependent people after an accident, the more their general health deteriorates. 
 
-Countries across Europe and the Americas are aging leading to an increase in the number of dependent people and consequently, caregivers. Today, it is estimated that about 1 in 5 people is a caregiver in Europe and North America and this number is expected to increase for the next few decades due to the aging of baby boomers. Unfortunately, this situation is not sustainable economically due to the increasing proportion of dependent people and the global impoverishment of the population. To solve this societal issue, we want to develop solutions that are *simple, robust, easy to use* and *affordable*.
+Countries across Europe and the Americas are aging leading to an increase in the number of dependent people and consequently, caregivers. Today, it is estimated that about 1 in 5 people is a caregiver in Europe and North America and this number is expected to increase for the next few decades due to the aging of baby boomers. Unfortunately, this situation is not economically viable due to the increasing proportion of dependent people, the overall impoverishment of the population as well as the high rate of health care costs. To solve this societal issue, we want to develop solutions that are *simple, robust, easy to use* and *affordable* for dependent people and caregivers.
 
 ## Our project
 We are turning to the use of connected objects and the implementation of digital applications to develop a **personalized local home surveillance system** that allows:
