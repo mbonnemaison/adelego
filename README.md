@@ -34,7 +34,7 @@ We first did an analysis of the data over a period of 3 months from January 1st 
 Information we obtained from this analysis:
 - What time do we enter the kitchen for the first time of the day?
 - How much time do we spend in the kitchen per day?
-- 
+
 For both questions, the goal was to provide the mean, standard deviation and a graph. Below are the graphs summarizing our analysis. On both graphs, the red line represents the average and the green lines are located 1 standard deviation away from the average.
 
 <img src="first_time_in_kitchen.png"	title="Graph showing the first time we enter the kitchen per day" width="750" height="525" /> 
