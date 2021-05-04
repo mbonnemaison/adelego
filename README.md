@@ -5,7 +5,7 @@
 ## The problem
 A person becomes **dependent** because of their age, a disability and/or an illness and a **caregiver** is a person who helps dependent people in their daily life. When an accident happens to dependent people or people living by themselves, their health can be severely impacted. Countries across Europe and the Americas are aging leading to an increase in the number of dependent people and consequently, caregivers.
 
-Today, it is estimated that about 1 in 5 people is a caregiver in Europe and North America and this number is expected to increase for the next few decades due to the aging of baby boomers. Unfortunately, this situation is not be sustainable economically due to the increasing proportion of dependent people and the global impoverishment of the population. To help as many people as possible, we thus want to develop solutions that are *simple, robust, easy to use and affordable*.
+Today, it is estimated that about 1 in 5 people is a caregiver in Europe and North America and this number is expected to increase for the next few decades due to the aging of baby boomers. Unfortunately, this situation is not sustainable economically due to the increasing proportion of dependent people and the global impoverishment of the population. To help as many people as possible, we thus want to develop solutions that are *simple, robust, easy to use and affordable*.
 
 ## Our project
 We are turning to the use of connected objects and the implementation of digital applications to develop a **personalized local home surveillance system** that allows people who are living by themselves and/or dependent to live safer and longer in their own home.
