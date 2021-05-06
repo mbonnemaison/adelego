@@ -3,7 +3,7 @@
 **Adelego** is a project created to help dependent people live longer and more safely at home & to improve the assistance caregivers can provide.
 
 ## The problem
-People become **dependent** because of their age, a disability and/or an illness. Dependence can last between a few days (e.g. after a surgery) and a lifetime (e.g. a person born with a mental disability). 
+A person is **dependent** if he/she is reliant on someone else to accomplish or complete common tasks, such as cooking meals. People become dependent because of their age, a disability and/or an illness. Dependence can last between a few days (e.g. after a surgery) and a lifetime (e.g. a person born with a mental disability). 
 
 A **caregiver** is a person who helps dependent people in their daily life. A caregiver can be a nurse, a family member or even a neighbor. In most cases, a caregiver is the spouse or a parent of a dependent person.
 
