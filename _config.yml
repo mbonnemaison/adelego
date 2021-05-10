@@ -1,6 +1,6 @@
 remote_theme: fongandrew/hydeout
 title: Adelego
-description: Santé - Accompagnement - Protection
+description: Care - Support - Protection
 permalink: /:name
 plugins:
   - jekyll-redirect-from

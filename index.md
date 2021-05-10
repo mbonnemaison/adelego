@@ -1,33 +1,35 @@
 ---
-title: Bienvenue!
+title: Welcome!
 ---
-**Adelego** est un projet qui souhaite apporter des réponses aux besoins grandissants des personnes dépendantes, des aidants et des personnes vivant seules à domicile.
->***Qu’est-ce que la dépendance?***
 
-Une personne devient dépendante à cause de son âge, d’un handicap et/ou d’une maladie.
+**Adelego** is a project created to help dependent people live longer and more safely at home and improve the assistance caregivers can bring to dependent people.
 
->***Qu’est-ce qu’un aidant?***
+>***What is dependence?***
 
-Un aidant est une personne qui aide une autre personne dans son quotidien. Notre pays vieillit entrainant une augmentation de nombre de personnes dépendantes et par conséquent, d’aidants. Le travail d’un aidant varie d’une personne à une autre. On estime qu’environ 1 personne sur 5 est un aidant en France.
+ person is dependent if he/she is reliant on someone else to accomplish or complete common tasks, such as cooking meals. People become dependent because of their age, disability and/or an illness. Dependence can last a few days (e.g. after a surgery) or a lifetime (e.g. a person born with a mental disability).
 
-### Notre situation
-Nous recherchons des solutions pour protéger et accompagner ces personnes grâce à la mise en place d’applications numériques par l’utilisation d’objets connectés.
+>***What is a caregiver?***
 
-Nous sommes convaincus que nous pouvons apporter de véritables solutions pour tous les besoins de chacun par une intelligence collective et un échange de bonnes pratiques.
+A caregiver is a person who helps dependent people in their daily life. A caregiver can be a nurse, a family member, or even a neighbor. In most cases, a caregiver is the spouse or a parent of a dependent person. Due to the wide range of dependence, the job of a caregiver varies from person to person. 
 
-### Ce que vous trouverez sur ce site:
-Sur ce site, vous pourrez trouver des informations générales sur le projet Adelego et son histoire en cliquant à gauche. Nous postons régulièrement des articles sur les thèmes suivants:
-- Les dépendances 
-- Les aidants 
-- Les solutions actuelles 
-- Bienveillance & entre aide 
-- Hygiène de vie & bien-être 
+### Our situation 
+Populations in countries across Europe and the Americas are aging leading to an increase in the number of dependent people and consequently, caregivers. Today, it is estimated that about 1 in 5 people is a caregiver in Europe and North America and this number is expected to increase for the next few decades due to the aging of baby boomers and the overall decline of total fertility rates. This situation is not economically viable due to the increasing proportion of dependent people, but also the global impoverishment of the population and the high cost of health care.
 
-### Travaillons ensemble!
-Si vous avez des questions, souhaitez partager vos idées et/ou commencer une collaboration sur le sujet, [contactez-nous](<adele.jmb@gmail.com>)!
+We are looking for solutions to protect and support dependent people & their caregivers through the use of connected objects and the implementation of digital applications. We are convinced that we can provide real solutions for everyone's needs through cooperative work and exchange of good practices.
 
-Toutes nos intéractions sont couvertes par notre [code de conduite](CodeConduite.md).
+### What you will find on this site: 
+On this site, you can find general information about Adelego, its history and posts regarding discussing this societal issue. We regularly post articles on the following topics: 
+- Dependence
+- Caregivers 
+- Current solutions 
+- Kindness & mutual help 
+- Healthy lifestyle & well-being
 
-Nous sommes très heureux de votre visite sur notre site et espérons que vous le trouverez utile.
+### Let's work together! 
+If you have any questions, want to share your ideas, write a post and / or start a collaboration on the project, [contact us](<adele.jmb@gmail.com>)!
 
-L’équipe Adelego
+All of our interactions are covered by our [code of conduct](CodeConduct.md).
+
+We are very happy that you are visiting our site and hope you will find it useful. 
+
+***Team Adelego***
