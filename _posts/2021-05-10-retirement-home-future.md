@@ -11,5 +11,6 @@ When dependence becomes too important, our elders look for better accomodation (
 
 This brings up some questions: will we be able to meet this increasing demand in the years to come? If not, what solutions can we bring to face this societal phenomenon?
   
-Please do not hesitate to [contact us](contact_us.md) with any questions or comments on this article.
-Picture from RODNAE Productions
+**Please do not hesitate to [contact us](contact_us.md) with any questions or comments on this article.**
+
+*Picture from RODNAE Productions*
