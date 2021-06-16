@@ -208,11 +208,15 @@ ind = 1
 next_day = day_list[-1] + pd.Timedelta(days = 1)
 day_to_day = pd.DataFrame()
 while next_day <= pd.to_datetime('today').date():
-    if (next_day < pd.to_datetime('2021-04-10')) | (next_day == pd.to_datetime('2021-04-14')) | (next_day == pd.to_datetime('2021-04-19')):
-        next_day = datetime.strftime(next_day, '%Y-%m-%-d')
+    #print(next_day)
+    if (next_day < pd.to_datetime('2021-04-10')) | (next_day == pd.to_datetime('2021-04-14')) | (next_day == pd.to_datetime('2021-04-19')) | (next_day == pd.to_datetime('2021-04-23')) | (next_day == pd.to_datetime('2021-06-04')):
+        next_day = datetime.strftime(next_day, '%Y-%m-%d')
         next_data = pd.read_csv(f'Adelego_{next_day}_00h00.csv', sep = '\t')
+    elif next_day == pd.to_datetime('2021-05-30'):
+        next_day = datetime.strftime(next_day, '%Y-%m-%d')
+        next_data = pd.read_csv(f'Adelego_{next_day}_00h00.csv')
     else:
-        next_day = datetime.strftime(next_day, '%Y-%m-%-d')
+        next_day = datetime.strftime(next_day, '%Y-%m-%d')
         next_data = pd.read_csv(f'Adelego_{next_day}_00h00.csv', sep = ';')
     next_data = next_data.drop(['Objet', "Équipement", "Commande"], axis=1)
     next_day = pd.to_datetime(next_day) + pd.Timedelta(days = 1)
@@ -247,7 +251,9 @@ while next_day <= pd.to_datetime('today').date():
                            index=['Date', 'First time', 'First time range', 'Time spent', 'Time spent range'],
                            name=ind)
     day_to_day = day_to_day.append(today_info)
+    #print(day_to_day)
     ind += 1
+
 #=============================================================================================================
 #Save file
 file_date = next_day - pd.Timedelta(days=2)
