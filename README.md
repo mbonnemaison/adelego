@@ -64,6 +64,48 @@ The picture below is a screenshot of the dataframe generated on April 21st 2021.
 ## Let's work together
 If you want to develop this project with us or have ideas/suggestions, feel free to contact me on GitHub or <adele.jmb@gmail.com>.
 
-We also created a GitHub page (in french for now) with more information on the project and our vision [here](https://mbonnemaison.github.io/adelego/).
+## GitHub Page
+We also created a GitHub page with more information on the project and our vision [here](https://mbonnemaison.github.io/adelego/).
+
+### How to run the site locally
+
+[Clone](https://help.github.com/en/articles/cloning-a-repository) (or [fork](https://help.github.com/en/articles/about-forks) then clone) this repo.
+
+Install Ruby v2.6+ as explained in the [Jekyll docs](https://jekyllrb.com/docs/installation/) for your operating system (via [rbenv](https://github.com/rbenv/rbenv), for example).
+If the version of ruby on your system is too recent (e.g. version 3.0.1), install Ruby Version Manager or rvm. Instructions to install rvm are [here](https://rvm.io/rvm/install) and this [youtube video](https://www.youtube.com/watch?v=cQVb7fHFjSM) details how to use rvm to install and run previous versions of ruby.
+
+Make sure both the installed Ruby version and RubyGems are on your path:
+
+```
+$ ruby -v
+$ gem -v
+```
+
+Install [Bundler](https://bundler.io/):
+
+```
+$ gem install bundler
+```
+
+Install the gems to build the site:
+
+```
+$ bundle install
+```
+
+Build and serve the site:
+
+```
+$ bundle exec jekyll serve
+```
+
+View the site in a browser at <http://localhost:4000>.
+
+## Developing the site
+
+This site uses the [Hydeout](https://fongandrew.github.io/hydeout/) theme. Most of the site's structure and style come from the theme.
+
+To run Jekyll commands, use `bundle exec jekyll`.
+
 
 *We thank the [Boston Python group](https://about.bostonpython.com) for allowing us to use their GitHub page as a model for our GitHub page.*
