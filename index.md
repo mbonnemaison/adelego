@@ -25,8 +25,15 @@ On this site, you can find general information about Adelego, its history and po
 - Kindness & mutual help 
 - Healthy lifestyle & well-being
 
-### Let's work together! 
-If you have any questions, want to share your ideas, write a post and / or start a collaboration on the project, [contact us](<adele.jmb@gmail.com>)!
+### Let's stay connected!
+
+[![LinkedIn](assets/images/LI-In-Bug.png){: .left-icon}LinkedIn page](https://www.linkedin.com/company/ad%C3%A9le)
+
+[![Facebook](assets/images/fb.png){: .left-icon}Facebook page](https://www.facebook.com/Ad%C3%A9le-108664894695647)
+
+[![Email](assets/images/email.png){: .left-icon}Email us](contact_us.md)
+
+[![GitHub](assets/images/github.png){: .left-icon}GitHub](https://github.com/mbonnemaison/adelego)
 
 All of our interactions are covered by our [code of conduct](CodeConduct.md).
 
