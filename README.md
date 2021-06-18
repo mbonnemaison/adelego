@@ -8,7 +8,7 @@ We created a [GitHub page](https://mbonnemaison.github.io/adelego/) with more in
 
 If you want to develop this project with us, please check [our code](https://github.com/mbonnemaison/adelego/tree/master)! We're new at programming and would love your input!
 
-If you have thoughts/ideas/suggestions on the projects, feel free to contact us on [GitHub](https://github.com/mbonnemaison) or [email us]<adele.jmb@gmail.com>.
+If you have thoughts/ideas/suggestions on the projects, feel free to contact us on [GitHub](https://github.com/mbonnemaison) or [email us](<adele.jmb@gmail.com>).
 
 ### How to run the site locally
 
