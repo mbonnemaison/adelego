@@ -62,8 +62,6 @@ The picture below is a screenshot of the dataframe generated on April 21st 2021.
 <img src="daily_info.png"	title="Dataframe containing latest daily information" width="716" height="404" /> 
 
 ## Let's work together
-If you want to develop this project with us or have ideas/suggestions, feel free to contact me on GitHub or <adele.jmb@gmail.com>.
+If you want to develop this project with us or have ideas/suggestions, feel free to contact me on [GitHub](https://github.com/mbonnemaison).
 
-We also created a GitHub page (in french for now) with more information on the project and our vision [here](https://mbonnemaison.github.io/adelego/).
-
-*We thank the [Boston Python group](https://about.bostonpython.com) for allowing us to use their GitHub page as a model for our GitHub page.*
+We also created a [GitHub page](https://mbonnemaison.github.io/adelego/) with more information on the project and our vision.

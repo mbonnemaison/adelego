@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="https://gmpg.org/xfn/11" rel="profile" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+  <title>
+    
+      Our project &middot; Adelego
+    
+  </title>
+
+  
+
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+
+<link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i&display=swap" rel="stylesheet">
+
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
+
+  <!-- Additional head bits without overriding original head -->
+</head>
+
+
+  <body class="page">
+
+    <div id="sidebar">
+  <header>
+    <div class="site-title">
+      <a href="/">
+        
+          <span class="back-arrow icon"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg></span>
+        
+        Adelego
+      </a>
+    </div>
+    <p class="lead">Care - Support - Protection</p>
+  </header>
+  <nav id="sidebar-nav-links">
+  
+  
+
+  
+
+  
+
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+    
+      <a class="page-link "
+          href="/our_story">Our story</a>
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/about">About</a>
+    
+  
+
+  
+    
+      <a class="page-link  active"
+          href="/project">Our project</a>
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/posts">Posts</a>
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/CodeConduct">Code of Conduct</a>
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/contact_us">Contact us</a>
+    
+  
+
+
+  
+
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+  <img style="margin-top: 1em" src='assets/images/Adelego_Logo_Blue.png' width='120' height='120'/>
+
+</nav>
+
+
+  
+
+  
+
+  <p class="copyright">
+  &copy; 2021,
+  Adéle Concept.
+</p>
+
+</div>
+
+    <main class="container">
+      
+<header>
+  <h1 class="page-title">Our project</h1>
+</header>
+
+<div class="content">
+  <p>We are turning to the use of connected objects and the implementation of digital applications to develop a <strong>personalized local home surveillance system</strong> that allows:</p>
+<ul>
+  <li>people who are living by themselves and/or dependent to live safer and longer in their own home.</li>
+  <li>caregivers to be alerted immediately in case of an accident.</li>
+</ul>
+
+<p>Because each situation is unique and changes over time, our approach is to create a <strong>platform</strong> that will provide a variety of tools users can select based on their needs. It is the combination of these tools that will create the personalized local home surveillance system. Each tool will consist of a program in link with connected objects to:</p>
+<ul>
+  <li>record and analyze data locally;</li>
+  <li>send an alert (by phone or email) to a caregiver when an unusual activity is detected, such as a fall.</li>
+</ul>
+
+<h2 id="first-prototype">First prototype</h2>
+<p>We are currently building a first prototype consisting of a detector connected to a Raspberry Pi 4 on which we installed Jeedom.</p>
+
+<p>The detector we are working with is <a href="https://aeotec.com/z-wave-sensor/">Multisensor 6</a> from Aeotec. This detector can sense humidity, temperature, presence, UV, brightness and vibration. It uses the Z-wave protocol to communicate to its antenna (<a href="https://aeotec.com/z-wave-usb-stick/">Z-stick Gen 5+</a> from Aeotec) that is hooked up to the Raspberry Pi 4.</p>
+
+<p><em>Raspberry Pi 4 and the antenna</em></p>
+
+<p><img src="assets/images/IMG_3160.jpg" title="Raspberry Pi 4 and the antenna" width="300" height="400" /></p>
+
+<p><em>Multisensor 6 detector</em></p>
+
+<p><img src="assets/images/IMG_3163.jpg" title="Multisensor 6 detector" width="300" height="400" /></p>
+
+<p><a href="https://www.jeedom.com/en/">Jeedom</a> is an open-source software that is designed to create a personalized home automation system. We are currently using Jeedom to collect and export our data as CSV files.</p>
+
+<p>The detector has been placed at the entrance of our kitchen since December 1st 2020 and has been recording data continuously.</p>
+
+<h2 id="data-analysis">Data analysis</h2>
+<p>The appropriate data analysis is essential to detect any unusual activity. Our current strategy is to use the Python library, <em>pandas</em>, to analyze the data that has been recovered in CSV files.</p>
+<h3 id="step-1-analysis-of-3-months-of-data-to-generate-a-history">Step 1: Analysis of 3 months of data to generate a history</h3>
+<p>We first did an analysis of the data over a period of 3 months from January 1st 2021 until March 31st 2021 in order to get a history and figure out a pattern.
+Information we obtained from this analysis:</p>
+<ul>
+  <li>What time do we enter the kitchen for the first time of the day?</li>
+  <li>How much time do we spend in the kitchen per day?</li>
+</ul>
+
+<p>For both questions, the goal was to provide the mean, standard deviation and a graph. Below are the graphs summarizing our analysis. On both graphs, the red line represents the average and the green lines are located 1 standard deviation away from the average.</p>
+
+<p><img src="assets/images/first_time_in_kitchen.png" title="Graph showing the first time we enter the kitchen per day" width="750" height="525" /></p>
+
+<p><img src="assets/images/time_spent_kitchen.png" title="Graph showing how much time we spend in the kitchen per day" width="750" height="525" /></p>
+
+<p><strong>With this analysis, we then defined that any data located between the two standard deviation lines were considered “normal” while any data that would be outside of these lines would be subjected to concern.</strong></p>
+
+<h3 id="step-2-analyze-incoming-data-automatically">Step 2: Analyze incoming data automatically</h3>
+<p>The next step of our analysis is to automatically analyze incoming data, compare the results to the history generated with the 3 months of data and send a notification via email. With Jeedom’s plugins, we programmed our system to receive an email at midnight everyday containing a CSV file with the data from the last 24 hours. We wrote code that provides the first time we enter the kitchen and the time spent in the kitchen per day for each incoming file. This analysis was started on April 1st 2021.
+The picture below is a screenshot of the dataframe generated on April 21st 2021. This table includes the following columns:</p>
+<ul>
+  <li><strong>First time</strong>: time when we entered the kitchen for the first time of the day</li>
+  <li><strong>First time range</strong>: range indicating if the <strong><em>First time</em></strong> is in the normal range or if it is early or late compared to the history*</li>
+  <li><strong>Time spent</strong>: time we spent in the kitchen for the day</li>
+  <li><strong>Time spent range</strong>: range indicated if the <strong><em>Time spent</em></strong> is in the normal range or if it is low or high compared to the history*</li>
+</ul>
+
+<p>*Note: the normal range is any value that falls within 1 standard deviation from the mean calculated with the 3 months of data.</p>
+
+<p><img src="assets/images/daily_info.png" title="Dataframe containing latest daily information" width="716" height="404" /></p>
+
+<p>The code for this project can be found on our <a href="https://github.com/mbonnemaison/adelego">GitHub account</a></p>
+
+</div>
+<footer class="content">
+  <p id="edit-page" class="editme">
+    <strong>This project is sponsored by the association Adéle.</strong>
+  </p>
+</footer>
+
+    </main>
+
+    <!-- Optional footer content -->
+
+  </body>
+</html>
