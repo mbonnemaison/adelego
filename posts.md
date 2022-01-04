@@ -3,6 +3,9 @@ title: Posts
 sidebar_link: true
 sidebar_sort_order: 200
 ---
+### [Young spouts](_posts/2022-01-03-Young_Sprouts.md)
+What if we solve our societal problems like a sprout starting from the ground and rising to the sky? [*Continue reading*](_posts/2022-01-03-Young_Sprouts.md)
+
 ### [Prevent malnutrition](_posts/2021-12-27-Malnutrition.md)
 Eating well can become difficult for people living alone because of age or disability. For the elderly, reduced meal intake can be due to a problem with chewing, swallowing or a gradual loss of taste and desire to eat. It may also be a sign of distress, depression and sadness which can lead to give-up-itis. [*Continue reading*](_posts/2021-12-27-Malnutrition.md)
 
