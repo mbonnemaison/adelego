@@ -3,6 +3,10 @@ title: Posts
 sidebar_link: true
 sidebar_sort_order: 200
 ---
+
+### [Adelego, a tool that analyzes behavior](_posts/2022-01-10-Adelego-behavior-tool.md)
+Aging is a main driver of dependence. However, dependence does not develop overnight in most cases. It can take months to years to be noticeable to the caregivers and seniors. One of our elders’ wishes is to live at home for as long as possible. [*Continue reading*](_posts/2022-01-10-Adelego-behavior-tool.md)
+
 ### [Young spouts](_posts/2022-01-03-Young_Sprouts.md)
 What if we solve our societal problems like a sprout starting from the ground and rising to the sky? [*Continue reading*](_posts/2022-01-03-Young_Sprouts.md)
 
