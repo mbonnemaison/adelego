@@ -4,6 +4,9 @@ sidebar_link: true
 sidebar_sort_order: 200
 ---
 
+### [What we're refusing to see](_posts/2022-01-17-Refuse_see.md)
+We usually live well for about 65 years. During this period, we can accomplish many things in our lives and our communities. But what after those 65 years? [*Continue reading*](_posts/2022-01-17-Refuse_see.md)
+
 ### [Adelego, a tool that analyzes behavior](_posts/2022-01-10-Adelego-behavior-tool.md)
 Aging is a main driver of dependence. However, dependence does not develop overnight in most cases. It can take months to years to be noticeable to the caregivers and seniors. One of our elders’ wishes is to live at home for as long as possible. [*Continue reading*](_posts/2022-01-10-Adelego-behavior-tool.md)
 
