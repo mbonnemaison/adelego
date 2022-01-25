@@ -4,6 +4,9 @@ sidebar_link: true
 sidebar_sort_order: 200
 ---
 
+### [Before we die...](_posts/2022-01-24-before-die.md)
+After a tree is born, it grows, slowly declines and then dies. Throughout its life, a tree must adapt to years of challenges such as the cold of harsh winters, the heat and drought of summers, the wind, tornadoes, rain and thunderstorms to resist death. [*Continue reading*](_posts/2022-01-24-before-die.md)
+
 ### [What we're refusing to see](_posts/2022-01-17-Refuse_see.md)
 We usually live well for about 65 years. During this period, we can accomplish many things in our lives and our communities. But what after those 65 years? [*Continue reading*](_posts/2022-01-17-Refuse_see.md)
 
