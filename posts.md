@@ -4,6 +4,9 @@ sidebar_link: true
 sidebar_sort_order: 200
 ---
 
+### [How to tackle growing dependence as a carer?](_posts/2022-01-31-tackle-dependence.md)
+A person living alone and gradually becoming more and more dependent may stop doing his/her daily activities because of fatigue, despair or loneliness. For example, this person may no longer want to get up in the morning, feed him/herself or go out or this person may no longer wash regularly, which is often seen as a sign of frailty. [*Continue reading*](_posts/2022-01-31-tackle-dependence.md)
+
 ### [Before we die...](_posts/2022-01-24-before-die.md)
 After a tree is born, it grows, slowly declines and then dies. Throughout its life, a tree must adapt to years of challenges such as the cold of harsh winters, the heat and drought of summers, the wind, tornadoes, rain and thunderstorms to resist death. [*Continue reading*](_posts/2022-01-24-before-die.md)
 
