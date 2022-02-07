@@ -11,6 +11,8 @@ For family and loved ones, it is very delicate to approach these topics and ask 
 
 There are applications combined with sensors that can be installed in the home of people living alone, like in bathrooms where a sensor would measure the brightness, the percentage of humidity (sign of a shower) as well as movement. A history of habits can then be drawn that shows when the person typically enters the room for the first time of the day or takes a shower. These applications are easy to install and could send an alert to family and loved ones when the frequency of use deviates from the usual standards.
 
+What would be your strategy?
+
 Photo by Olya Kobruseva from Pexels
 
  **Please do not hesitate to [contact us](contact_us.md) with any questions or comments on this article.**
