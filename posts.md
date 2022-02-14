@@ -4,11 +4,13 @@ sidebar_link: true
 sidebar_sort_order: 200
 ---
 
+### [Getting help as a caregiver](_posts/2022-02-14-getting-help-caregivers.md)
+Why is it so difficult for a family caregiver to ask for help? A caregiver is a person who takes on the responsibility of caring for a family member such as a partner or a parent. Sometimes, caring for the loved one demands a lot of time and efforts from the carer who may accumulate fatigue and reduce social interactions over time.[*Continue reading*](_posts/2022-02-14-getting-help-caregivers.md)
+
 ### [Save the date for the next world carers conversation!](_posts/2022-02-07-save-the-day.md)
 The National Alliance for Caregiving and EMD Serono are back with the World Carers Conversation 2022! Save the date May 19 for a free virtual event with carer advocates, innovators, researchers and experts from around the world. Together we will talk about the future of caregiving and the latest in caregiving research, practice and policy innovations.
 
 [<img src="assets/images/2022-02-07-WCC22.jpg" title="Save the date - May 19th 2022" width="500" height="600" />](https://www.caregiving.org/world-cares-conversation-2022/)
-
 
 ### [How to tackle growing dependence as a carer?](_posts/2022-01-31-tackle-dependence.md)
 A person living alone and gradually becoming more and more dependent may stop doing his/her daily activities because of fatigue, despair or loneliness. For example, this person may no longer want to get up in the morning, feed him/herself or go out or this person may no longer wash regularly, which is often seen as a sign of frailty. [*Continue reading*](_posts/2022-01-31-tackle-dependence.md)
