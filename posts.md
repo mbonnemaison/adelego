@@ -3,6 +3,8 @@ title: Posts
 sidebar_link: true
 sidebar_sort_order: 200
 ---
+### [Live a long and healthy life](_posts/2022-02-21-aging-well.md)
+For the first time in human history, the number of people over the age of 60 exceeds that of children under the age of 5 and in 2050, it is expected that the elderly population will represent about 2 billion people. [*Continue reading*](_posts/2022-02-21-aging-well.md)
 
 ### [Getting help as a caregiver](_posts/2022-02-14-getting-help-caregivers.md)
 Why is it so difficult for a family caregiver to ask for help? A caregiver is a person who takes on the responsibility of caring for a family member such as a partner or a parent. Sometimes, caring for the loved one demands a lot of time and efforts from the carer who may accumulate fatigue and reduce social interactions over time.[*Continue reading*](_posts/2022-02-14-getting-help-caregivers.md)
